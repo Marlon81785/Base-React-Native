@@ -7,5 +7,9 @@ export const styles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    shrek: {
+      flex: 1,
+      width: 300,
+    }
     
 });
